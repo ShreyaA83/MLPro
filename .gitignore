@@ -1,0 +1,54 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE/Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python distribution files
+*.egg
+*.egg-info
+dist/
+build/
+eggs/
+sdist/
+*.manifest
+*.spec
+
+# Distribution / packaging
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Test and coverage reports
+*.cover
+*.hypothesis/
+.coverage
+nosetests.xml
+coverage.xml
+*.coveragerc
+*.tox/
+.tox/
+.nox/
+.coverage.*
+*.hypothesis/
+
+# Other temporary files
+*.log
+*.bak
+*.tmp
+*.sw*
